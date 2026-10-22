@@ -72,6 +72,6 @@ Propojuji svět byznysového řízení, IT architektury a moderní umělé intel
 
 ### 🌐 Connect With Me / Kontakt
 
-- **LinkedIn:** [linkedin.com/in/dvdskcl](https://www.linkedin.com/in/dvdskcl/) *(doplň přesný slug)*
+- **LinkedIn:** [linkedin.com/in/dvdskcl](https://www.linkedin.com/in/dvdskcl/) 
 - **Interactive Portfolio:** *Coming soon*
 - **Schedule a Conversation:** *Cal.com link coming soon*
